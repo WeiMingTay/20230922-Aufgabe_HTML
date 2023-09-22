@@ -2,8 +2,11 @@
 # HTML
 ## Theoretische Aufgaben
 1. Welche Bedeutung hat die Abkürzung 'HTML' und wofür wird es in der Webentwicklung eingesetzt?
+> HyperText Markup Language
 2. Nennt mindestens fünf gängige HTML-Tags und beschreibt ihre Verwendung.
+> body, header, main, footer, a, p, h*, span, div, img
 3. Warum ist es wichtig, semantisch korrekten HTML-Code zu verwenden?
+> Accessibility - A11y, Suchmaschinenoptimierung
 4. Eurer Arbeits-Kollege will den Titel auf eurer Website größer darstellen lassen.
    5. Er macht aus:
     ```html
