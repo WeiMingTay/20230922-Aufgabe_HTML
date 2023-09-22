@@ -12,8 +12,8 @@
    Warum ist dieses Vorgehen nicht gut? Und was würdet ihr eurem Kollegen empfehlen?
 ## Aufgaben
 #### Erstellt die Grundstruktur einer HTML-Seite für einen Blog.
-1. Schritt 1: Erstellt eine HTML-Datei mit einem geeigneten Namen.
-2. Schritt 2: Lasst eurer Kreativität freien Lauf und erstellt eine Blog-Seite mit folgenden Elementen:
+1. _Schritt 1_: Erstellt eine HTML-Datei mit einem geeigneten Namen.
+2. _Schritt 2_: Lasst eurer Kreativität freien Lauf und erstellt eine Blog-Seite mit folgenden Elementen:
     * Titel
     * Überschrift
     * Absatz
@@ -32,13 +32,13 @@
 5. Füge einen abgerundeten Rahmen zu einem deiner Tags hinzu.
 6. Probiere weitere CSS Eigenschaften aus.
 ## Bonus Aufgaben
-1. Schritt 1: Erstellt eine HTML-Datei und eine CSS-Datei mit einem geeigneten Namen.
-2. Schritt 2: Fügt den Titel der Produktseite hinzu.
-3. Schritt 3: Erstellt eine Überschrift, die den Produktnamen repräsentiert.
-4. Schritt 4: Fügt ein Bild des Produkts ein, das mit einer passenden Beschreibung versehen ist.
-5. Schritt 5: Erstellt eine kurze Produktbeschreibung mit einigen Eigenschaften.
-6. Schritt 6: Fügt eine ungeordnete Liste mit den Vorteilen des Produkts hinzu.
-7. Schritt 7: Erstellt einen Abschnitt für Kundenbewertungen (mindestens zwei Bewertungen).
+1. _Schritt 1_: Erstellt eine HTML-Datei und eine CSS-Datei mit einem geeigneten Namen.
+2. _Schritt 2_: Fügt den Titel der Produktseite hinzu.
+3. _Schritt 3_: Erstellt eine Überschrift, die den Produktnamen repräsentiert.
+4. _Schritt 4_: Fügt ein Bild des Produkts ein, das mit einer passenden Beschreibung versehen ist.
+5. _Schritt 5_: Erstellt eine kurze Produktbeschreibung mit einigen Eigenschaften.
+6. _Schritt 6_: Fügt eine ungeordnete Liste mit den Vorteilen des Produkts hinzu.
+7. _Schritt 7_: Erstellt einen Abschnitt für Kundenbewertungen (mindestens zwei Bewertungen).
 
 
 
