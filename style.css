@@ -13,6 +13,9 @@ header {
   flex-direction: column;
   align-items: center;
   background: #ecc334;
+  height: 10vh;
+  position: fixed;
+  top: 0;
   font-family: "Princess Sofia", cursive;
 }
 header nav {
@@ -107,18 +110,7 @@ header nav a:hover {
   text-align: center;
 }
 #produkt header {
-  font-size: 4rem;
-  z-index: 2;
-  height: 10vh;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  display: grid;
-  place-items: center;
-}
-#produkt header a {
-  text-decoration: none;
-  color: black;
+  z-index: 1;
 }
 #produkt main {
   height: 100vh;
