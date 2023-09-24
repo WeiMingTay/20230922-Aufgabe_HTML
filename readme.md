@@ -43,5 +43,8 @@
 6. _Schritt 6_: Fügt eine ungeordnete Liste mit den Vorteilen des Produkts hinzu.
 7. _Schritt 7_: Erstellt einen Abschnitt für Kundenbewertungen (mindestens zwei Bewertungen).
 
+## Links
+[VorschauSeite](https://weimingtay.github.io/20230922-Aufgabe_HTML/)
+
 
 
