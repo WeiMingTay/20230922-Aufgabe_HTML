@@ -14,7 +14,7 @@ header {
   flex-direction: column;
   align-items: center;
   background: #ecc334;
-  height: 10vh;
+  height: fit-content;
   position: fixed;
   top: 0;
   font-family: 'Princess Sofia', cursive;
@@ -53,30 +53,34 @@ header {
 }
 
 #index {
-  section {
-    article {
-      display: flex;
-      flex-direction: column;
-      padding: 2rem;
+  main {
+    margin-top: 20vh;
 
-      h5 {
-        font-size: 1.5rem;
-      }
+    section {
 
-      &:first-of-type {
-        background-color: rgba(0, 0, 255, .5);
-      }
+      article {
+        display: flex;
+        flex-direction: column;
+        padding: 2rem;
 
-      &:nth-of-type(2) {
-        background-color: rgba(255, 0, 0, 0.5);
-      }
+        h5 {
+          font-size: 1.5rem;
+        }
 
-      &:last-of-type {
-        background-color: rgb(0, 255, 0, .5);
+        &:first-of-type {
+          background-color: rgba(0, 0, 255, .5);
+        }
+
+        &:nth-of-type(2) {
+          background-color: rgba(255, 0, 0, 0.5);
+        }
+
+        &:last-of-type {
+          background-color: rgb(0, 255, 0, .5);
+        }
       }
     }
   }
-
 
   .bildContainer {
     display: flex;
@@ -130,6 +134,7 @@ header {
   }
 }
 
+
 #produkt {
 
   height: 100vh;
@@ -159,6 +164,7 @@ header {
 
 
     &::before {
+
       content: '';
       position: absolute;
       top: 0;
@@ -172,10 +178,11 @@ header {
 
 
     div {
-      height: 500px;
-      width: 500px;
+      $rainbowSize: 800px;
+      height: $rainbowSize;
+      width: $rainbowSize;
       background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
-      border-radius: 30% 10%;
+      border-radius: 50% 5%;
       /*zentrieren 1*/
       /*
           position: absolute;
@@ -186,6 +193,9 @@ header {
       /*zentrieren 2 siehe Main*/
       /*zentrieren 3*/
       margin: auto;
+      outline: hotpink 2rem solid;
+      border: black .5rem solid;
+
 
     }
   }

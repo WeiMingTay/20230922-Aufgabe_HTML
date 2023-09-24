@@ -13,7 +13,7 @@ header {
   flex-direction: column;
   align-items: center;
   background: #ecc334;
-  height: 10vh;
+  height: fit-content;
   position: fixed;
   top: 0;
   font-family: "Princess Sofia", cursive;
@@ -43,21 +43,24 @@ header nav a:hover {
   text-decoration: underline;
 }
 
-#index section article {
+#index main {
+  margin-top: 20vh;
+}
+#index main section article {
   display: flex;
   flex-direction: column;
   padding: 2rem;
 }
-#index section article h5 {
+#index main section article h5 {
   font-size: 1.5rem;
 }
-#index section article:first-of-type {
+#index main section article:first-of-type {
   background-color: rgba(0, 0, 255, 0.5);
 }
-#index section article:nth-of-type(2) {
+#index main section article:nth-of-type(2) {
   background-color: rgba(255, 0, 0, 0.5);
 }
-#index section article:last-of-type {
+#index main section article:last-of-type {
   background-color: rgba(0, 255, 0, 0.5);
 }
 #index .bildContainer {
@@ -134,10 +137,10 @@ header nav a:hover {
   filter: grayscale(0.75);
 }
 #produkt main div {
-  height: 500px;
-  width: 500px;
+  height: 800px;
+  width: 800px;
   background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
-  border-radius: 30% 10%;
+  border-radius: 50% 5%;
   /*zentrieren 1*/
   /*
       position: absolute;
@@ -148,6 +151,8 @@ header nav a:hover {
   /*zentrieren 2 siehe Main*/
   /*zentrieren 3*/
   margin: auto;
+  outline: hotpink 2rem solid;
+  border: black 0.5rem solid;
 }
 
 /*# sourceMappingURL=style.css.map */
