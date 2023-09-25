@@ -169,8 +169,8 @@ header nav a:hover {
   align-content: flex-start;
 }
 #flexbox main div {
-  width: 55px;
-  height: 55px;
+  width: 75px;
+  height: 75px;
   background-color: hotpink;
 }
 #flexbox main div:nth-of-type(even) {
