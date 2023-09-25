@@ -46,5 +46,24 @@
 ## Links
 [VorschauSeite](https://weimingtay.github.io/20230922-Aufgabe_HTML/)
 
+`25. September 2023` `neue Fische - Java Development Bootcamp`
+# CSS
+## Theoretische Aufgaben
+1. Erklärt den Unterschied zwischen Margin und Padding in CSS
+> Innen und außen vom Border
+2. Welche unterschiedlichen Display-Properties gibt es in CSS?
+> inline, inline-block, block, flex, grid
+ 
+## Aufgaben
+1. Spiele das köstliche [CSS Diner](https://flukeout.github.io/) um dich mit den verschiedenen Selektoren vertraut zu machen!Mindestens bis Level 11. Wenn du nicht weiter kommst nutze : [CSS-Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
+> ![Bildschirmfoto 2023-09-25 um 10.47.29.png](public%2Fassets%2FBildschirmfoto%202023-09-25%20um%2010.47.29.png)
+2. Spiele [FlexboxFroggy](https://flexboxfroggy.com/) um dich mit flexbox vertraut zu machen.
+3. Styled euren Blog aus der HTML - Aufgabe.
+4. Falls ihr diese Aufgabe bereits früher abgeschlossen habt, dürft ihr die Bonusaufgabe auf der nächsten Seite bearbeiten.
+
+## Bonus Aufgabe
+1. Erweitert euren Blog! Fügt eurem Blog weitere Elemente hinzu und styled diese.
+
+
 
 

@@ -201,4 +201,36 @@ header {
   }
 }
 
+#flexbox {
+  main {
+    $gap: .5rem;
+    padding: $gap;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(darkslategray, .25);
+    width: 70vw;
+    height: 70vh;
+    margin-top: 15vh;
+    margin-left: 15vw;
+    gap: $gap;
+    overflow: hidden;
+    align-content: flex-start;
+
+
+    div {
+      $size: 100px;
+      width: $size;
+      height: $size;
+      background-color: hotpink;
+
+      &:nth-of-type(even) {
+        background-color: lightpink;
+      }
+      &:nth-of-type(10n) {
+        background-color: lime;
+      }
+    }
+  }
+}
+
 
